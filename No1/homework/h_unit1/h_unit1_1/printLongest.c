@@ -19,5 +19,6 @@ int tempreture(){
         printf("%d\t%d\n",fahr,celsius);
         fahr = fahr + step;
     }
+    printf("new branch");
     return 0;
 }
